@@ -1,0 +1,9 @@
+opencv-contrib-python
+SpeechRecognition
+pyttsx3
+google-cloud-speech
+nltk
+google-cloud-dialogflow
+pyAudio
+wave
+google-cloud-vision
